@@ -1,5 +1,5 @@
-# google-app-script
-Cheatsheet of Google App Script Formulas
+# Google App Script Formulas
+My cheatsheet of Google App Script formulas
 
 **Display a List of Sheet Names**
 
